@@ -1,0 +1,6 @@
+name: FriendAnimals
+version: ${project.version}
+main: uk.adamwoollen.friendanimals.FriendAnimals
+prefix: FriendAnimals
+authors: [Adzwoolly]
+description: Talk to animals and make new friends!
