@@ -4,3 +4,4 @@ main: uk.adamwoollen.friendanimals.FriendAnimals
 prefix: FriendAnimals
 authors: [Adzwoolly]
 description: Talk to animals and make new friends!
+api-version: 1.13

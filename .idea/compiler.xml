@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="friend-animals" target="1.9" />
+      <module name="friend-animals" target="1.14" />
     </bytecodeTargetLevel>
   </component>
 </project>
